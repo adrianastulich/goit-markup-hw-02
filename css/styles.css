@@ -10,9 +10,15 @@ header {
   background-color: #2f303a;
 }
 
-button {
+button:hover::before {
+  font-family: "Roboto", sans-serif;
   background-color: #f5f4fa;
   color: #212121;
+}
+button:hover::after {
+  font-family: "Roboto", sans-serif;
+  background-color: #2196f3;
+  color: #ffffff;
 }
 
 footer {
