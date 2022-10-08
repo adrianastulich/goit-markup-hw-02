@@ -1,0 +1,19 @@
+body {
+  width: 1600px;
+}
+main {
+  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background-color: #ececec;
+}
+.maindiv {
+  background-color: #2f303a;
+}
+
+button {
+  background-color: #f5f4fa;
+  color: #212121;
+}
