@@ -38,7 +38,8 @@ header {
   text-decoration: none;
   color: #212121;
 }
-.headermenu-item:hover {
+.headermenu-item:hover,
+.headermenu-item:focus {
   color: #2196f3;
 }
 .contact-item {
@@ -54,7 +55,8 @@ header {
   color: #757575;
   text-decoration: none;
 }
-.contact-item:hover {
+.contact-item:hover,
+.contact-item:focus {
   color: #2196f3;
 }
 /* end of header */
@@ -188,7 +190,8 @@ header {
   border-style: none;
   border-radius: 4px;
 }
-.mainportfolio-button1:hover {
+.mainportfolio-button1:hover,
+.mainportfolio-button1:focus {
   background-color: #2196f3;
   color: #ffffff;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
@@ -210,7 +213,8 @@ header {
   border-style: none;
   border-radius: 4px;
 }
-.mainportfolio-button2:hover {
+.mainportfolio-button2:hover,
+.mainportfolio-button2:focus {
   background-color: #2196f3;
   color: #ffffff;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
@@ -232,7 +236,8 @@ header {
   border-style: none;
   border-radius: 4px;
 }
-.mainportfolio-button3:hover {
+.mainportfolio-button3:hover,
+.mainportfolio-button3:focus {
   background-color: #2196f3;
   color: #ffffff;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
@@ -254,7 +259,8 @@ header {
   border-style: none;
   border-radius: 4px;
 }
-.mainportfolio-button4:hover {
+.mainportfolio-button4:hover,
+.mainportfolio-button4:focus {
   background-color: #2196f3;
   color: #ffffff;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
@@ -276,7 +282,8 @@ header {
   border-style: none;
   border-radius: 4px;
 }
-.mainportfolio-button5:hover {
+.mainportfolio-button5:hover,
+.mainportfolio-button5:focus {
   background-color: #2196f3;
   color: #ffffff;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
