@@ -1,15 +1,66 @@
-main {
-  font-family: "Raleway", sans-serif;
+body {
   font-family: "Roboto", sans-serif;
+  background: #e5e5e5;
 }
 
 header {
   background-color: #ececec;
 }
+
+.Logo {
+  color: #2196f3;
+  font-family: "Raleway", sans-serif;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 2rem;
+  letter-spacing: 0.03em;
+}
+.darktext {
+  color: #000000;
+}
+.headermenu {
+  list-style-type: none;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1rem;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.list-item {
+  text-decoration: none;
+}
+.list-item:visited {
+  text-decoration: none;
+  color: #212121;
+}
+.list-item:hover {
+  color: #2196f3;
+}
+.contact-item {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1rem;
+  letter-spacing: 0.02em;
+  color: #757575;
+  text-decoration: none;
+}
+.contact-item:visited {
+  color: #757575;
+  text-decoration: none;
+}
+.contact-item:hover {
+  color: #2196f3;
+}
+
 .maindiv {
   background-color: #2f303a;
 }
-
 button:hover::before {
   font-family: "Roboto", sans-serif;
   background-color: #f5f4fa;
