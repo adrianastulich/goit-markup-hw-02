@@ -7,6 +7,7 @@ body {
 
 header {
   background-color: #ffffff;
+  border-bottom: 1px #ececec;
 }
 
 .logo {
@@ -98,7 +99,7 @@ header {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.875rem;
   display: flex;
   align-items: center;
   text-align: center;
@@ -169,8 +170,152 @@ header {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.188rem;
   /* text-align: center; */
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.main-portfolio {
+  background-color: #ffffff;
+}
+.portfolio-menu {
+  margin-top: 94px;
+}
+
+.mainportfolio-button1 {
+  position: absolute;
+  width: 121px;
+  height: 38px;
+  left: 510px;
+  top: 174px;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.625rem;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  border-style: none;
+  border-radius: 4px;
+}
+.mainportfolio-button1:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.mainportfolio-button2 {
+  position: absolute;
+  width: 93px;
+  height: 38px;
+  left: 639px;
+  top: 174px;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.625rem;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  border-style: none;
+  border-radius: 4px;
+}
+.mainportfolio-button2:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.mainportfolio-button3 {
+  position: absolute;
+  width: 114px;
+  height: 38px;
+  left: 740px;
+  top: 174px;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.625rem;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  border-style: none;
+  border-radius: 4px;
+}
+.mainportfolio-button3:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.mainportfolio-button4 {
+  position: absolute;
+  width: 91px;
+  height: 38px;
+  left: 862px;
+  top: 174px;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.625rem;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  border-style: none;
+  border-radius: 4px;
+}
+.mainportfolio-button4:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.mainportfolio-button5 {
+  position: absolute;
+  width: 121px;
+  height: 38px;
+  left: 961px;
+  top: 174px;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.625rem;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  border-style: none;
+  border-radius: 4px;
+}
+.mainportfolio-button5:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.portfolio-list {
+  list-style-type: none;
+}
+.portfolio-name {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2.25rem;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.portfolio-category {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.875rem;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -196,7 +341,7 @@ footer {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.5rem;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
