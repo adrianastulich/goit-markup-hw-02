@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  background: #ffffff;
+  background-color: #e5e5e5;
   width: 1600px;
   font-family: "Raleway", sans-serif;
 }
@@ -94,7 +94,7 @@ header {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   border-style: none;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -106,9 +106,12 @@ header {
   color: #ffffff;
   cursor: pointer;
 }
+.description {
+  background-color: #ffffff;
+}
 .descriptionlist {
   list-style-type: none;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
 }
 .descriptionlist-title {
   font-style: normal;
@@ -127,8 +130,11 @@ header {
   letter-spacing: 0.03em;
   color: #757575;
 }
+.whatwedo {
+  background-color: #ffffff;
+}
 .subtitle {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
