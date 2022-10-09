@@ -1,12 +1,12 @@
 body {
   font-family: "Roboto", sans-serif;
-  background: #e5e5e5;
+  background: #ffffff;
   width: 1600px;
   font-family: "Raleway", sans-serif;
 }
 
 header {
-  background-color: #ececec;
+  background-color: #ffffff;
 }
 
 .logo {
@@ -32,14 +32,14 @@ header {
   letter-spacing: 0.02em;
   color: #212121;
 }
-.list-item {
+.headermenu-item {
   text-decoration: none;
 }
-.list-item:visited {
+.headermenu-item:visited {
   text-decoration: none;
   color: #212121;
 }
-.list-item:hover {
+.headermenu-item:hover {
   color: #2196f3;
 }
 .contact-item {
@@ -59,7 +59,7 @@ header {
 .contact-item:hover {
   color: #2196f3;
 }
-
+/* end of header */
 .main-div {
   width: 1600px;
   height: 600px;
@@ -80,7 +80,6 @@ header {
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  text-transform: inherit;
 }
 
 .maindiv-button {
@@ -105,9 +104,94 @@ header {
   text-align: center;
   letter-spacing: 0.06em;
   color: #ffffff;
+  cursor: pointer;
+}
+.descriptionlist {
+  list-style-type: none;
+  font-family: "Roboto";
+}
+.descriptionlist-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+.descriptionlist-item {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5rem;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.subtitle {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 2.625rem;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.whatwedo-list {
+  list-style-type: none;
+}
+.ourteam {
+  background: #f5f4fa;
+}
+.ourteam-list {
+  list-style-type: none;
+}
+.name {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.188rem;
+  /* text-align: center; */
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+.work-position {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  /* text-align: center; */
+  letter-spacing: 0.03em;
+  color: #757575;
 }
 
 footer {
   background-color: #2f303a;
   font-family: "Roboto", sans-serif;
+}
+.white-text {
+  color: white;
+}
+.company-address {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5rem;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+.footer-contacts {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
 }
