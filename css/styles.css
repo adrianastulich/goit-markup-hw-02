@@ -14,7 +14,6 @@ header {
   color: #2196f3;
   font-family: "Raleway", sans-serif;
   text-decoration: none;
-  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 2rem;
@@ -26,7 +25,6 @@ header {
 .headermenu {
   list-style-type: none;
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1rem;
@@ -45,7 +43,6 @@ header {
 }
 .contact-item {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1rem;
@@ -74,7 +71,6 @@ header {
   margin-top: 200px;
   color: #ffffff;
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 900;
   font-size: 44px;
   line-height: 3.75rem;
@@ -96,7 +92,6 @@ header {
   border-radius: 4px;
   border-style: none;
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.875rem;
@@ -115,7 +110,6 @@ header {
   font-family: "Roboto", sans-serif;
 }
 .descriptionlist-title {
-  font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 1rem;
@@ -124,8 +118,6 @@ header {
   color: #212121;
 }
 .descriptionlist-item {
-  font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.5rem;
   letter-spacing: 0.03em;
@@ -136,7 +128,6 @@ header {
 }
 .subtitle {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 2.625rem;
@@ -156,7 +147,6 @@ header {
 }
 .name {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.188rem;
@@ -167,8 +157,6 @@ header {
 }
 .work-position {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.188rem;
   /* text-align: center; */
@@ -191,7 +179,6 @@ header {
   top: 174px;
   cursor: pointer;
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.625rem;
@@ -214,7 +201,6 @@ header {
   top: 174px;
   cursor: pointer;
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.625rem;
@@ -237,7 +223,6 @@ header {
   top: 174px;
   cursor: pointer;
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.625rem;
@@ -260,7 +245,6 @@ header {
   top: 174px;
   cursor: pointer;
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.625rem;
@@ -283,7 +267,6 @@ header {
   top: 174px;
   cursor: pointer;
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.625rem;
@@ -303,7 +286,6 @@ header {
 }
 .portfolio-name {
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 700;
   font-size: 18px;
   line-height: 2.25rem;
@@ -312,8 +294,6 @@ header {
 }
 .portfolio-category {
   font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.875rem;
   letter-spacing: 0.03em;
@@ -330,7 +310,6 @@ footer {
 .company-address {
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.5rem;
   letter-spacing: 0.03em;
@@ -338,8 +317,6 @@ footer {
 }
 .footer-contacts {
   font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.5rem;
   letter-spacing: 0.03em;
